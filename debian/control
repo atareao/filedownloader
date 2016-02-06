@@ -1,0 +1,15 @@
+Source: filedownloader
+Section: utils
+Priority: extra
+Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+Homepage: http://www.atareao.es
+
+Package: filedownloader
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, 
+	gir1.2-gtk-3.0,
+	python3-lxml
+Description: Application to download files from a web site
+ filedownloader is a simple application to download all files from a web page

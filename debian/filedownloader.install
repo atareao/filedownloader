@@ -1,0 +1,4 @@
+src/filedownloader.py /opt/extras.ubuntu.com/filedownloader/share/filedownloader
+bin/filedownloader /opt/extras.ubuntu.com/filedownloader/bin
+data/filedownloader.svg /opt/extras.ubuntu.com/filedownloader/share/icons
+data/filedownloader.desktop /usr/share/applications

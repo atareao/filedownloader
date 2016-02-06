@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=filedownloader
+Comment=Application to download files from web site
+Categories=GNOME;Utility;
+Exec=/opt/extras.ubuntu.com/filedownloader/bin/filedownloader
+Icon=/opt/extras.ubuntu.com/filedownloader/share/icons/filedownloader.svg
+Terminal=false
+Type=Application

@@ -1,0 +1,17 @@
+filedownloader (0.0.3-0extras15.10.0) wily; urgency=medium
+
+  * Changed icon
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 29 Jan 2016 19:58:57 +0100
+
+filedownloader (0.0.2-0extras15.10.0) wily; urgency=medium
+
+  * Improved multi-thread process
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 29 Jan 2016 19:49:53 +0100
+
+filedownloader (0.0.1-0extras15.10.2) wily; urgency=medium
+
+  * Initial release.
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Thu, 24 Dec 2015 19:26:29 +0100
